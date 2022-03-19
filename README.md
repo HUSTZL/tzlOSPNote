@@ -17,3 +17,6 @@ Haofei Hou
 *Update at 2022/3/13:* Finished the Chapter2. And partial descriptions of certain concepts have been modified, including how bios are stored. Update homework1(How to build an operating system). Please don't copy, but when you're confused. Add some descriptions to the whole project, so prepared to be publiced.
 
 *Update at 2022/3/17:* Update part of Chapter3(User Interface，UI). And modify some descriptions for privacy.
+
+
+*Update at 2022/3/20:* Finish Chapter3(User Interface，UI).Update part of Chapter4(Process)
