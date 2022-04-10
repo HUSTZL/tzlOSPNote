@@ -22,3 +22,5 @@ Haofei Hou
 *Update at 2022/3/20:* Finish Chapter3(User Interface，UI).Update part of Chapter4(Process)
 
 *Update at 2022/3/27:* Update Chapter4(Process). Add many content of code in Linux2.6 and Linux0.11 and it is difficult! Use a SourceInsight4.0
+
+*Update at 2022/4/10:* Finish the Chapter4. And update Homework2.
