@@ -23,4 +23,6 @@ Haofei Hou
 
 *Update at 2022/3/27:* Update Chapter4(Process). Add many content of code in Linux2.6 and Linux0.11 and it is difficult! Use a SourceInsight4.0
 
-*Update at 2022/4/10:* Finish the Chapter4. And update Homework2.
+*Update at 2022/4/10:* Finish the Chapter4(Process). And update Homework2 which draw circle and square in the same time with Qt.
+
+*Update at 2022/4/11:* Finish the Chapter5(Deadlock). 
