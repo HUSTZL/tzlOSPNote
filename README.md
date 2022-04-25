@@ -26,3 +26,5 @@ Haofei Hou
 *Update at 2022/4/10:* Finish the Chapter4(Process). And update Homework2 which draw circle and square in the same time with Qt.
 
 *Update at 2022/4/11:* Finish the Chapter5(Deadlock). 
+
+*Update at 2022/4/25:* After the test of "Algorithm", I try my best to catch up with the Mr. Su. Now, I finish Chapter6(Process scheduling) and Update most part of Chapter7(Memory Management).
