@@ -28,3 +28,6 @@ Haofei Hou
 *Update at 2022/4/11:* Finish the Chapter5(Deadlock). 
 
 *Update at 2022/4/25:* After the test of "Algorithm", I try my best to catch up with the Mr. Su. Now, I finish Chapter6(Process scheduling) and Update most part of Chapter7(Memory Management).
+
+*Update at 2022/5/1:* Finish Chapter7(Memory Management). It is a big job.
+
